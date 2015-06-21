@@ -1,4 +1,4 @@
-#READ ME
+#Getting and Cleaning Data Course Project
 
 ##The objective of this assignment is to collect, work with, and clean a data set. 
 
